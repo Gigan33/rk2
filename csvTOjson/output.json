@@ -1,0 +1,35 @@
+[
+	
+{
+"email": "artem@yand.com",
+"phoneNumber": "8-800-553535",
+"grade": "5",
+"mark": "A",
+"name": "Artem"
+
+},
+{
+"email": "Igor@yand.com",
+"phoneNumber": "8-800-553535",
+"grade": "7",
+"mark": "B",
+"name": "Igor"
+
+},
+{
+"email": "Boris@yand.com",
+"phoneNumber": "8-800-553535",
+"grade": "3",
+"mark": "C",
+"name": "Boris"
+
+},
+{
+"email": "Luchiy@yand.com",
+"phoneNumber": "8-800-553535",
+"grade": "11",
+"mark": "A+",
+"name": "Akakiy"
+}
+]
+	
